@@ -2,8 +2,8 @@
 - 👀 I’m interested technology and automotives.
 - 🌱 I’m currently learning front-end web development.
 - 📫 How to reach me on
--                   Twitter - twitter.com/piyushjawla
--                   LinkedIn - linkedin.com/in/piyushjawla
+-                   twitter.com/piyushjawla
+-                   linkedin.com/in/piyushjawla
 
 
 <!---
