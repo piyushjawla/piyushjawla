@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @piyushjawla
 - 👀 I’m interested technology and automotives.
 - 🌱 I’m currently learning front-end web development.
-- 📫 How to reach me ... 
+- 📫 How to reach me on
+-                   Twitter - twitter.com/piyushjawla
+-                   LinkedIn - linkedin.com/in/piyushjawla
 
 
 <!---
